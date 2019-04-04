@@ -1,1 +1,1 @@
-# Flower_reco
+# Flower recognition
